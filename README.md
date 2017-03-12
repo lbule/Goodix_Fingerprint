@@ -1,1 +1,1 @@
-# Mediatek Platform Goodix Goodix Fingerprint HAL
+# Mediatek Platform Goodix Fingerprint HAL
